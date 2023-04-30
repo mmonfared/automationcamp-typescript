@@ -1,5 +1,6 @@
-// [number, string, boolean, object, array, undefined, null]
-// [any, unknown, enum, tuple, never]
+// [number, string, boolean, undefined, null]
+// [NaN, infinity, any, array, tuple, object]
+// [enum, unknown, never]
 
 //number 
 let num1 = 10; // number
