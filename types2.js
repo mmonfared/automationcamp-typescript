@@ -34,3 +34,10 @@ console.log(obj.name);
 obj.age = 12;
 console.log(obj);
 obj = { name: "David", age: '20' };
+var user = {
+    name: "Jack",
+    age: 25,
+    isVerified: false
+};
+user.age = 26;
+user.isVerified = true;

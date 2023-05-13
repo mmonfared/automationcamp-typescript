@@ -39,3 +39,16 @@ console.log(obj.name)
 obj.age = 12
 console.log(obj)
 obj = {name: "David", age: '20'}
+
+// let user: {
+//     name: string,
+//     age: number,
+//     isVerified: boolean
+// }
+//  = {
+//     name: "Jack",
+//     age: 25,
+//     isVerified: false
+//  }
+//  user.age = 26
+//  user.isVerified = true
